@@ -22,9 +22,9 @@ public class ORETAN1 {
          int n = scanner.nextInt();
          return n;
      }
-     {
+     
         
-     }
+     
      private static BigInteger fibo (int n){
          BigInteger [] hasil = new BigInteger[n];
          
